@@ -1,4 +1,4 @@
-# 🧠 Multidomain Adaptive Semantic Communications (MASCN & MDAN)
+# 🧠 Multidomain Adaptive Semantic Communications (MA-DeepSC)
 
 This repository provides the official implementation of our **IEEE JSAC 2025** paper titled:
 
