@@ -24,19 +24,19 @@ Both components support **multi-domain settings in a unified and scalable manner
 
 Our work is inspired by and partially built upon the following public repositories:
 
-- [1] DeepJSCC-f (JSCC with feedback)  
+- [1] DeepJSCC-f (JSCC with feedback): DeepJSCC-f: Deep Joint Source-Channel Coding of Images with Feedback
   Kurka & Gunduz, *IEEE JSAIT 2020*  
   👉 https://github.com/kurka/deepJSCC-feedback
 
-- [2] ADJSCC (with attention modules)  
+- [2] ADJSCC (with attention modules): Wireless Image Transmission Using Deep Source Channel Coding With Attention Modules
   Xu et al., *IEEE TCSVT 2022*  
   👉 https://github.com/alexxu1988/ADJSCC
 
-- [3] Predictive and Adaptive Deep Coding  
+- [3] Predictive and Adaptive Deep Coding for Wireless Image Transmission in Semantic Communication 
   Zhang et al., *IEEE TWC 2023*  
   👉 https://github.com/wyzhang-ustb/Predictive-and-Adaptive-Deep-Coding-for-Wireless-Image-Transmission-in-Semantic-Communication
 
-- [4] Semantic Communication with Task-Unaware Transmitter  
+- [4] Data Adaptation Network: Deep Learning-Enabled Semantic Communication Systems with Task-Unaware Transmitter and Dynamic Data 
   Zhang et al., *IEEE JSAC 2022*  
   👉 https://github.com/SJTU-mxtao/Semantic-Communication-Systems
 
