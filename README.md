@@ -18,6 +18,10 @@ We propose two multidomain-adaptive modules for semantic image communication ove
 
 Both components support **multi-domain settings in a unified and scalable manner**, and can be combined or used independently.
 
+4-digit Datasets
+https://drive.google.com/drive/folders/1joqfCtRxitmrTZao49smzVnLT_6FSNRQ?usp=sharing
+
+
 ---
 
 ## 📁 Reference Implementations
