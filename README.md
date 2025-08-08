@@ -40,7 +40,7 @@ Our work is inspired by and partially built upon the following public repositori
   Zhang et al., *IEEE TWC 2023*  
   👉 https://github.com/wyzhang-ustb/Predictive-and-Adaptive-Deep-Coding-for-Wireless-Image-Transmission-in-Semantic-Communication
 
-- [4] Data Adaptation Network: Deep Learning-Enabled Semantic Communication Systems with Task-Unaware Transmitter and Dynamic Data 
+- [4] Deep Learning-Enabled Semantic Communication Systems with Task-Unaware Transmitter and Dynamic Data 
   Zhang et al., *IEEE JSAC 2022*  
   👉 https://github.com/SJTU-mxtao/Semantic-Communication-Systems
 
