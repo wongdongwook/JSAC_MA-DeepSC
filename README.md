@@ -11,7 +11,7 @@ This repository provides the official implementation of our **IEEE JSAC 2025** p
 We propose two multidomain-adaptive modules for semantic image communication over wireless channels:
 
 - **MASCN (Multidomain Adaptive Semantic Coding Network)**  
-  A StarGAN-based end-to-end encoder-decoder architecture that inherently supports multi-domain semantic encoding and decoding, making it robust against both domain shifts and channel noise (e.g., AWGN, Fading).
+  A StarGAN-based end-to-end encoder-decoder architecture that inherently supports multi-domain semantic encoding and decoding, making it robust against both domain shifts and channel noise (e.g., AWGN).
 
 - **MDAN (Multidomain Data Adaptation Network)**  
   A generalized, StarGAN-based adaptation module derived from the CycleGAN-like framework in [4], enabling multi domain data adaptation to desired target domains, prior to semantic endcoding.
